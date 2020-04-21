@@ -1,5 +1,5 @@
 # GlobPatternTester
-Tests Glob Patterns against a directory and returns the list of resulting file paths
+Tests Glob Patterns against a directory and returns a list of resulting file paths.
 
 # Arguments
 
